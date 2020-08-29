@@ -1,2 +1,0 @@
-wget https://github.com/moiamond/docker-ffmpeg-base-windowsservercore/raw/master/System32/avicap32.dll -OutFile avicap32.dll
-wget https://github.com/moiamond/docker-ffmpeg-base-windowsservercore/raw/master/System32/msvfw32.dll -OutFile msvfw32.dll
